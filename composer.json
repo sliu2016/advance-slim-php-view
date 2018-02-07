@@ -1,0 +1,9 @@
+{
+	"name" : "slim-php-view/slim-php-view",
+	"type" : "library",
+	"keywords" : [
+		"slim",
+		"php view",
+		"layout"
+	]
+}
